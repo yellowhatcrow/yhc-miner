@@ -1,0 +1,6 @@
+asm/yhcminer-aesb-x86.o: asm/aesb-x86.S /usr/include/stdc-predef.h \
+ yhcminer-config.h
+
+/usr/include/stdc-predef.h:
+
+yhcminer-config.h:

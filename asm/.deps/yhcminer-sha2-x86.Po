@@ -1,0 +1,6 @@
+asm/yhcminer-sha2-x86.o: asm/sha2-x86.S /usr/include/stdc-predef.h \
+ yhcminer-config.h
+
+/usr/include/stdc-predef.h:
+
+yhcminer-config.h:

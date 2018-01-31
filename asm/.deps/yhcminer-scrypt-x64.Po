@@ -1,0 +1,6 @@
+asm/yhcminer-scrypt-x64.o: asm/scrypt-x64.S /usr/include/stdc-predef.h \
+ yhcminer-config.h
+
+/usr/include/stdc-predef.h:
+
+yhcminer-config.h:
